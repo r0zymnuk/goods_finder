@@ -15,11 +15,15 @@ body{
 }
 
 /*Header*/
-header{
+#header{
     height: 2cm;
-    position: sticky;
-    top: 0;
     overflow: hidden;
     outline: 0;
-    background-color: aqua;
+    background-color: aqua;    
+}
+.head{
+    background-color: #81da8c;
+    height: 2cm;
+    line-height: 100%;
+    text-align: center;
 }
